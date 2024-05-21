@@ -1,0 +1,1 @@
+(()=>{"use strict";(()=>{const o="one.js";console.log(o),console.log(o)})(),console.log("two.js"),console.log("Hello, i am webpack watch")})();
